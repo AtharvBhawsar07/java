@@ -6,7 +6,7 @@ public class sttr {
         System.err.println(n2);
                 System.out.println(n1.charAt(2));
                  System.out.println(n2.charAt(3));
-                 System.out.println(n1.concat(" " + "HANUMAN"));
+                 System.out.println(n1.concat(" " + "HANUMAN ,jai shree ram"));
                  System.out.println(n2.concat(" " + "ram"));
     }
 
