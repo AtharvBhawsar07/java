@@ -7,7 +7,7 @@ public class bu {
         sb.append(" sita");
         sb.deleteCharAt(3);
         sb.insert(4, "hanuman ");
-        //sb.setLength(newLength =9);
+       sb.setLength(sb.length() + 9);
          System.out.println(sb);
 
 
