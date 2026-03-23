@@ -25,8 +25,7 @@ public class st
         obj2.name   = "phone";
         obj2.price  = 2_50_000;
         obj2.name = "ipad";
-        //obj1.name = "phone"; 
-        
+        //obj1.name = "phone";           
         
         obj1.show();
         obj2.show();

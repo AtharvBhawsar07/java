@@ -9,6 +9,8 @@ class Ad extends Cl
     {
         return a / b;
     }
+
+    
 }
 
 public class adcal
@@ -20,6 +22,7 @@ public class adcal
         int r1= a.sub(57, 23);
         int r2 = a.mul(8,19);
         int r3 = a.div(72,9);
+        
        System.out.println(r +"  "+ r2 +"  " +"  "+ r3+"  "+ r1);
        
        

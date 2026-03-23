@@ -25,6 +25,9 @@
 public class encap1 {
     public static void main(String[] args) 
     {  Human obj = new Human();
+
+        //System.out.println(obj.getname() +" = "+ obj.getage());
+
         obj.setage(12); 
         obj.setname("ram");
         System.out.println(obj.getname() +" = "+ obj.getage());
